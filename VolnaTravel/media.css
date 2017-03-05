@@ -1,0 +1,1165 @@
+@media all and (max-width: 1820px){
+	img{
+		max-width: 35%;
+	}
+	.passport{
+		left: -35px;
+	}
+	
+	.camera{
+		bottom: 180px;
+		max-width: 33%;
+	}
+	.surf{
+		bottom: 140px;
+	}
+	.hat{
+		bottom: 110px;
+	}
+	.umbr{
+		top: -25px;
+	}
+	.thermos{
+		left: -40px;
+	}
+	.glasses{
+		max-width: 32%;
+	}
+	.bino{
+		top: 65px;
+		max-width: 30%;
+	}
+	.travel .plane, footer .plane{	
+		left: 52%;
+    }
+}
+
+@media all and (max-width: 1720px){
+	img{
+		max-width: 35%;
+	}
+	.passport{
+		left: -50px;
+	}
+	.shell{
+		bottom: -5px;
+	}
+	.camera{
+		bottom: 190px;
+	}
+	.surf{
+		bottom: 160px;
+	}
+	.hat{
+		bottom: 70px;
+	}
+	.umbr{
+		top: -40px;
+	}
+	.sandals{
+		max-width: 35%;
+	}
+	.thermos{
+		left: -80px;
+		max-width: 29%;
+	}
+	.glasses{
+		bottom: 280px;
+	}
+	.bino{
+		top: 105px;
+	}
+	.travel .plane, footer .plane{	
+		left: 52%;
+    }
+    input[type=email], input[type=text]{
+    	width: 220px;
+    	height: 57;
+    	font-size: 21px;
+    	margin: 0 10px 130px;
+    }
+    .sel {
+	 	width: 220px;
+		height: 57px;
+		margin: 0 10px 130px;
+		line-height: 57px;
+		padding-left: 25px;
+	}
+	.sel li {
+  
+  		width: 220px;
+  		height: 48px;
+  		line-height: 48px;
+    }
+    .sel:hover li{
+  		left: -25px;
+}
+
+@media all and (max-width: 1620px){
+	.callback{
+		font-size: 21px;
+		width: 220px;
+		line-height: 55px;
+	}
+	header .contact li, footer .contact li{
+		margin: 0 15px;
+		font-size: 21px;
+	}
+	header li:nth-child(2), footer .contact li:nth-child(2){
+    	width: 295px;
+    }
+
+	header li:nth-child(3), footer .contact li:nth-child(3){
+    	width: 250px;
+    }	
+	h2{
+		font-size: 60px;
+	}
+	header h1 {
+       font-size: 110px;
+    }
+    header h2 {
+       font-size: 38px;  
+    }
+    header p {
+       font-size: 23px;
+    }
+    .shell{
+    	bottom: 15px;
+    }
+    .travel p, .target p {
+    	font-size: 24px;
+    }
+    .registr, .more {
+  		width: 185px;
+   		font-size: 21px;
+   		line-height: 57px;
+   	}
+
+    .go {
+  		width: 147px;
+ 		font-size: 24px; 
+    }
+    .tasks  li {
+		  font-size: 21px;
+		  height: 48px;
+	}	  
+	.target h4, .tasks h4{
+  		  font-size: 80px;
+  	}	  
+  	.dlyakogo p {
+  		  font-size: 32px;
+    }
+    .dlyakogo ul li {
+		  font-size: 21px;
+		  width: 437px;
+		  height: 38px;
+	}	  
+	.speakers>p {
+  		  font-size: 21px;
+    }
+    .speakers .human p {
+  	      font-size: 19px;
+    }
+    .speakers .human img:hover + h3 + p + .descript {
+  		  font-size: 16px;
+  	}
+  	.price p {
+  		  font-size: 24px;
+    }
+	.price p+p {
+  		  font-size: 53px;
+    }
+	.price p+p+p {
+  		  font-size: 32px;
+    }
+    footer p{
+    	font-size: 24px;
+    }
+    .thermos{
+    	max-width: 28%;
+    	left: -115px;
+    }
+    .travel .plane, footer .plane{	
+		left: 52%;
+    }
+	  
+}
+@media all and (max-width: 1520px){
+	img{
+		max-width: 33%;
+	}
+    
+	.shell{
+		bottom: 80px;
+		max-width: 30%;
+	}
+	.camera{
+		bottom: 230px;
+	}
+	.surf{
+		bottom: 500px;
+	}
+	.hat{
+		bottom: 150px;
+	}
+	.nout{
+		top: 155px;
+	}
+	.bag{
+		bottom: 5px;
+	}
+	.umbr{
+		top: 40px;
+	}
+	.sandals{
+		max-width: 37%;
+		left: -15px;
+	}
+	.banana{
+		bottom: -80px;
+	}
+	.glasses{
+		bottom: 315px;
+	}
+	.thermos{
+		left: -150px;
+  		top: -130px;
+	}
+	.bino{
+		top: 125px;
+	}
+	.travel .plane, footer .plane{	
+		left: 52%;
+    }
+    .dlyakogo {
+  		background: url(img/medgreenborder.png) repeat-x bottom,
+  		url(img/maninbed.png) no-repeat 15% center, 
+ 		url(img/maninhammock.png) no-repeat 80% 75%, #ff6f6f;
+ 	}
+}
+
+@media all and (max-width: 1420px){
+	.passport{
+		top: 55px;
+	}
+	.shell{
+		bottom: 85px;
+	}
+	.callback{
+		font-size: 20px;
+		width: 210px;
+		line-height: 50px;
+	}
+	header .contact li, footer .contact li{
+		margin: 0 10px;
+		font-size: 20px;
+	}
+	header li:nth-child(2), footer .contact li:nth-child(2){
+    	width: 260px;
+    }
+
+	header li:nth-child(3), footer .contact li:nth-child(3){
+    	width: 240px;
+    }	
+	h2{
+		font-size: 56px;
+	}
+	header h1 {
+       font-size: 110px;
+    }
+    header h2 {
+       font-size: 36px;  
+    }
+    header p {
+       font-size: 22px;
+    }
+    .travel p, .target p {
+    	font-size: 23px;
+    }
+    .registr, .more {
+  		width: 175px;
+   		font-size: 20px;
+   		line-height: 55px;
+   	}
+
+   input[type=email], input[type=text] {
+ 		width: 180px;
+  		height: 45px;
+  		font-size: 18px;
+  		 margin: 0 10px 110px;
+  		line-height: 45px;
+	}
+    .sel {
+	  	width: 180px;
+	  	height: 45px;
+	  	line-height: 45px;
+	  	padding-left: 10px;
+	  	font-size: 18px;
+	    margin: 0 10px 110px;
+	}   
+	.sel li {
+  		width: 180px;
+  		height: 43px;
+  		line-height: 43px;
+	}
+	.sel:hover li{
+  		left: -10px;
+  	}	
+    .go {
+  		width: 140px;
+ 		font-size: 23px; 
+    }
+    .tasks  li {
+		  font-size: 20px;
+		  height: 46px;
+	}	  
+	.target h4, .tasks h4{
+  		  font-size: 76px;
+  	}	  
+  	.dlyakogo p {
+  		  font-size: 30px;
+    }
+    .dlyakogo ul li {
+		  font-size: 20px;
+		  width: 430px;
+		  height: 36px;
+	}	  
+	.speakers>p {
+  		  font-size: 20px;
+    }
+    .speakers .human p {
+  	      font-size: 18px;
+    }
+    .speakers .human img:hover + h3 + p + .descript {
+  		  font-size: 15px;
+  	}
+  	.price p {
+  		  font-size: 23px;
+    }
+	.price p+p {
+  		  font-size: 50px;
+    }
+	.price p+p+p {
+  		  font-size: 30px;
+    }
+    footer p{
+    	font-size: 23px;
+    }
+    .bino {
+  		top: 130px;
+  		max-width: 30%;
+	}
+}
+
+@media all and (max-width: 1320px){
+	header h1 {
+  	    font-size: 100px;
+  	    margin-top: 80px;
+  	}
+  	header h2 {
+  		font-size: 34px;  
+  	}
+  	header p {
+  		font-size: 20px;
+  		margin-bottom: 45px;	
+  	}
+  	.callback{
+  		width: 200px;
+  		font-size: 18px;
+  		line-height: 45px;	
+  	}
+  	header li:nth-child(2), footer .contact li:nth-child(2){
+    	width: 220px;
+  		font-size: 18px; 
+  	}
+  	.registr, .more {
+  		width: 155px;
+   		font-size: 18px;
+   		line-height: 45px;
+   	}
+   	.topbut .button {
+  		margin: 0px 5px;
+  	}	
+  	h2 {
+  		font-size: 50px;	  
+  	}
+  	.travel p, .target p {
+  		font-size: 21px;
+  	}
+  	.travel p {
+  		margin: 65px 0 50px;
+    }
+    
+  	.plane{
+  		max-width: 6%;
+  	}
+  	.passport{
+  		max-width: 28%;
+  	}
+	.shell {
+	  bottom: 95px;
+	}
+	.go {
+ 		 width: 115px;
+ 		 line-height: 45px;
+ 		 font-size: 19px;
+	}
+	.camera {
+ 		 bottom: 255px;
+ 	}	 
+ 	.tasks  li {
+		  font-size: 19px;
+		  height: 45px;
+	}	  
+	.target h4, .tasks h4{
+  		  font-size: 73px;
+  	}	  
+  	.dlyakogo p {
+  		  font-size: 28px;
+    }
+    .dlyakogo ul li {
+		  font-size: 19px;
+		  width: 430px;
+		  height: 35px;
+	}
+	.bag{
+    	bottom: 55px;
+    }	  
+    .umbr{
+    	top: 75px;
+    }
+	.speakers>p {
+  		  font-size: 19px;
+    }
+    .speakers .human p {
+  	      font-size: 17px;
+    }
+    .speakers .human img:hover + h3 + p + .descript {
+  		  font-size: 14px;
+  	}
+  	.price p {
+  		  font-size: 22px;
+    }
+	.price p+p {
+  		  font-size: 48px;
+    }
+	.price p+p+p {
+  		  font-size: 28px;
+    }
+    .sandals{
+    	max-width: 40%;
+    	bottom: 25px;
+    	left: -35px;
+    }
+    .gallery #slides{
+    	width: 522px;
+    	height: 285px;
+    }
+    .gallery .video{
+    	width: 522px;
+    }
+    .video video {
+  		height: 140px;
+  		width: 240px;
+	}
+
+    footer p{
+    	font-size: 22px;
+    }
+    .dlyakogo {
+  		background: url(img/medgreenborder.png) repeat-x bottom,
+  		url(img/maninbed.png) no-repeat 8% center, 
+ 		url(img/maninhammock.png) no-repeat 84% 77%, #ff6f6f;
+ 	}
+}
+
+@media all and (max-width: 1220px)
+{
+	header h1 {
+  	    font-size: 90px;
+  	    margin-top: 70px;
+  	}
+  	header h2 {
+  		font-size: 32px;  
+  	}
+  	header p {
+  		font-size: 19px;
+  		margin-bottom: 40px;	
+  	}
+  	
+  	h2 {
+  		font-size: 46px;	  
+  	}
+  	 input[type=email], input[type=text] {
+ 		width: 165px;
+  		height: 45px;
+	}
+    .sel {
+	  	width: 165px;
+	  	height: 45px;
+	  	
+	  	line-height: 45px;
+	  	padding-left: 10px;
+	  	font-size: 18px;
+	    margin: 0 10px 110px;
+	}   
+	.sel li {
+  		width: 165px;
+  		height: 43px;
+  		line-height: 43px;
+	}
+	.passport{
+		top: 75px;
+		max-width: 28%;
+	}
+  	.travel p, .target p {
+  		font-size: 20px;
+  	}
+  	.travel p {
+  		margin: 60px 0 45px;
+    }
+    .nout{
+    	top: 130px;
+    }
+    .bag{
+    	bottom: 70px;
+    }
+    
+	.hat{
+		bottom: 190px;
+	}
+	
+	.camera {
+ 		 bottom: 300px;
+ 	}	
+ 	.umbr{
+ 		top: 120px;
+ 	} 
+ 	.sandals{
+ 		bottom: 65px;
+ 	}
+ 	.banana{
+ 		bottom: -20px;
+ 	}
+ 		  
+  	.dlyakogo p {
+  		  font-size: 26px;
+    }
+    .dlyakogo ul li {
+		  font-size: 19px;
+		  width: 430px;
+		  height: 35px;
+	}  
+	.speakers>p {
+  		  font-size: 19px;
+    }
+    .speakers .human h3{
+    	font-size: 22px;
+    }
+    .speakers .human p {
+  	      font-size: 18px;
+    }
+    .speakers .human img:hover + h3 + p + .descript {
+  		  font-size: 16px;
+  	}
+  	.price p {
+  		  font-size: 21px;
+    }
+	.price p+p {
+  		  font-size: 46px;
+    }
+	.price p+p+p {
+  		  font-size: 26px;
+    }
+    footer p{
+    	font-size: 21px;
+    }
+}
+@media all and (max-width: 1120px){
+	header h1{
+		font-size: 80px;
+	}
+	.callback{
+  		width: 140px;
+  		font-size: 15px;
+  		line-height: 42px;	
+  	}
+  	header li:nth-child(2), footer .contact li:nth-child(2){
+  		height: 42px;
+    	width: 185px;
+  		font-size: 16px;
+  		line-height: 17px;
+    	background: url(img/icon-location.png) no-repeat 1% center;
+    	padding-left: 35px;
+    	padding-top: 5px;
+	}
+
+	header li:nth-child(3), footer .contact li:nth-child(3){
+		height: 42px;
+    	width: 165px;
+  		font-size: 16px;
+  		line-height: 17px;
+    	background: url(img/icon-mobile.png) no-repeat 1% center;
+    	padding-left: 35px;
+    	padding-top: 5px;
+	}
+	h2{
+		font-size: 45px;
+	}
+	.passport{
+		max-width: 25%;
+		top: 100px;
+	}
+	.travel .plane, footer .plane{	
+		left: 53%;
+    }
+	.camera{
+		bottom: 310px;
+	}
+	.nout{
+		top: 145px;
+	}
+	.bag{
+		bottom: 120px;
+	}
+	.hat{
+		bottom: 220px;
+	}
+	.target h4, .tasks .vs h4{
+		font-size: 65px;
+	}
+	.tasks .vs h4 {
+  		margin-top: 0;
+  		margin-bottom: 170px;
+	}
+	.dlyakogo {
+  		background: url(img/medgreenborder.png) repeat-x bottom,
+  		url(img/maninbed.png) no-repeat 2% center, 
+ 		url(img/maninhammock.png) no-repeat 93% 77%, #ff6f6f;
+	}
+	.umbr{
+		top: 215px;
+	}
+	.sandals{
+		bottom: 90px;
+	}
+	.thermos{
+		display: none;
+	}
+	.sel li{
+		padding-left: 25px;
+	}
+}
+
+@media all and (max-width: 1024px){
+	 input[type=email], input[type=text] {
+ 		width: 150px;
+  		height: 42px;
+  		font-size: 16px;
+  		 margin: 0 5px 110px;
+  		line-height: 42px;
+	}
+    .sel {
+	  	width: 150px;
+	  	height: 42px;
+	  	line-height: 42px;
+	  	padding-left: 10px;
+	  	font-size: 16px;
+	    margin: 0 5px 110px;
+	}   
+	.sel li {
+  		width: 150px;
+  		height: 40px;
+  		line-height: 40px;
+	}
+	.passport{
+		top: 120px;
+	}
+	.shell{
+		bottom: 105px;
+	}
+	.camera{
+		bottom: 330px;
+	}
+	.tasks li{
+		margin-bottom: 50px;
+		font-size: 17px;
+	}
+	.hat{
+		bottom: 270px;
+		max-width: 31%;
+	}
+	.bag{bottom: 225px;
+	}
+	.nout{
+		top: 240px;
+	}
+	.umbr{
+		top: 195px;
+	}
+	.sandals{bottom: 110px;
+	}
+	.glasses{
+		bottom: 605px;
+	}
+	.thermos{
+		display: block;
+		left: 0;
+		top: 200px;
+	}
+	.gallery .video {
+  		margin-top: 20px;
+  		margin-left: 15px;
+	}
+	.dlyakogo{
+	background: url(img/medgreenborder.png) repeat-x bottom, 
+ 	url(img/maninhammock.png) no-repeat 97% 77%, #ff6f6f;
+	}
+	.bino{
+		top: 125px;
+		max-width: 28%;
+	}
+}
+@media all and (max-width: 920px){
+	.shell{
+		bottom: 180px;
+	}
+	.passport{
+		top: 150px;
+	}
+	.tasks li{
+		margin-bottom: 20px;
+	}
+	.tasks .vs h4{
+		margin-bottom: 150px;
+	}
+	.bag{
+		bottom: 260px;
+	}
+	.nout{
+		top: 370px;
+	}
+	.hat{
+		bottom: 325px;
+	}
+	.surf{
+		bottom: 180px;
+	}
+	.dlyakogo {
+  		background: url(img/medgreenborder.png) repeat-x bottom,
+     	url(img/maninhammock.png) no-repeat 102% 77%, #ff6f6f;
+	}
+	.umbr{
+		top: 220px;
+	}
+	.thermos{
+		top: 370px;
+	}
+	
+	}
+}
+
+@media all and (max-width: 800px){
+	header h1{
+		font-size: 70px;
+	}
+
+    header h2 {
+       font-size: 30px;  
+    }
+    header p {
+       font-size: 20px;
+    }
+    h2{
+    	font-size: 40px;	
+    }
+    .passport{
+    	top: 335px;
+    	left: -20px;
+    }
+    .shell{
+    	bottom: 30px;
+    }
+    .travel .plane, footer .plane {
+  		left: 55%;
+  		bottom: 120px;
+  	}	
+    .travel p, .target p {
+    	font-size: 21px;
+    }
+    .camera{
+    	bottom: 440px;
+    }
+    .nout{
+    	top: 420px;
+    }
+    .tasks .vs h4{
+    	margin-bottom: 90px;
+    }
+    .target h4, .tasks .vs h4{
+		font-size: 50px;
+	}
+	.hat{
+		bottom: 360px;
+		max-width: 26%;
+	}
+	.dlyakogo {
+  		background: url(img/medgreenborder.png) repeat-x bottom, #ff6f6f;
+	}
+	.umbr{
+		top: 245px;
+	}
+	.sandals{
+		bottom: 220px;
+	}
+	.glasses{
+		bottom: 700px;
+	}
+}
+
+@media all and (max-width: 700px){
+	h2{
+		font-size: 36px;
+	}
+	.l-wave, .r-wave{
+		max-width: 25%;
+	}
+	.r-wave{
+		top: 360px;
+	}
+	
+	.hat{
+		bottom: 465px;
+	}
+	.nout{
+		top: 440px;
+	}
+	.travel p{
+		margin: 50px 0 40px;
+	}
+	.reg{
+		padding: 0 15%;
+		margin-bottom: 15px;
+		-webkit-box-align: baseline;
+		-webkit-align-items: baseline;
+		-ms-flex-align: baseline;
+		align-items: baseline;
+	}
+	.reg input:first-child, .reg input:nth-child(2){
+		margin-bottom: 60px;
+	}
+	.passport{
+		top: 265px;
+	}
+	.shell{
+		bottom: 200px;
+	}
+	.bino{
+		top: 280px;
+	}
+	.thermos{
+		display: none;
+	}
+	.team{
+		margin-bottom: 15px;
+	}
+	.sandals{
+		bottom: 245px;
+	}
+	.tasks .vs h4 {
+  		font-size: 45px;
+	}
+	.bag{
+		bottom: 295px;
+	}
+	.umbr{
+		top: 275px;
+	}
+}
+
+@media all and (max-width: 640px){
+	h2{
+		font-size: 33px;
+	}
+	.travel .plane, footer .plane {
+  	   left: 57%;
+ 	   bottom: 125px;
+	}
+	.passport{
+		top: 270px;
+	}
+	.shell{
+		bottom: 215px;
+	}
+	.camera{
+		bottom: 465px;
+	}
+	.nout{
+		top: 470px;
+	}
+	.bag{
+		bottom: 350px;
+	}
+	.sandals{
+		bottom: 290px;
+	}
+}
+
+@media all and (max-width: 600px){
+	header .contact li{
+		display: block;
+		margin-bottom: 10px;
+	}
+	header li:first-child{
+		padding-left: 10px;
+	}
+	.callback{
+		width: 160px;
+	}
+	.r-wave{
+		top: 0;
+		max-width: 40%;
+	}
+	.l-wave{
+		display: none;
+	}
+	footer .contact li{
+		display: none;
+	}
+	footer .plane{
+		bottom: 85px;
+	}
+	.tothetop{
+		display: block;
+		position: absolute;
+		bottom: 5px;
+		right: -60px;
+		min-width: 35%;
+	}
+	.glasses{
+		display: none;
+	}
+}
+
+@media all and (max-width: 540px){
+	.passport{
+		top: 345px;
+	}
+	.shell{
+		bottom: 240px;
+	}
+	.camera{
+		bottom: 500px;
+	}
+	.bag{
+		bottom: 380px;
+	}
+	.umbr{
+		top: 330px;
+	}
+	.tasks .vs h4{
+		font-size: 40px;
+	}
+	.price p+p{
+		font-size: 40px;
+	}
+	.gallery{
+		padding-bottom: 15px;
+	}
+	.gallery #slides { 
+  		width: 450px;
+  		height: 280px;
+  		margin-left: 0;
+  	}	
+  	.gallery .video{
+  		width: 450px;
+  		margin-left: 0;
+  	}
+  	.video video{
+  		height: 135px;
+  		width: 220px;
+  	}
+}
+
+@media all and (max-width: 480px){
+	header h1{
+		font-size: 60px;
+	}
+	.travel p{
+		margin: 35px 0 40px;
+	}
+	input[type=email], input[type=text],.reg input:first-child, .reg input:nth-child(2){
+		margin: 0 15px 35px;
+	}
+	.travel .plane, footer .plane {
+  		left: 59%;
+  		bottom: 130px;
+	}
+	.passport{
+		top: 365px;
+		max-width: 40%;
+	}
+	.shell{
+		bottom: 265px;
+		max-width: 45%;
+	}
+	.target h4{
+		display: none;
+	}
+	.target{
+	  background: url(img/toporangewave.png) repeat-x bottom, #a8d164;
+	  padding-bottom: 60px;
+	}
+	.target p{
+		margin-bottom: 50px;
+	}
+	.camera{
+		bottom: 300px;
+	}
+	.nout{
+		top: 370px;
+	}
+	.surf{
+		bottom: 300px;
+	}
+	.bag{
+		bottom: 370px;
+	}
+	.hat{
+		bottom: 430px;
+		max-width: 30%;
+	}
+	.dlyakogo ul li{
+  		font-size: 18px;
+ 		width: 400px;
+	}
+	.dlyakogo ul{
+ 		margin: 0 calc(50vw - 225px) 70px;
+ 	}	
+ 	.umbr{
+ 		top: 265px;
+ 		max-width: 40%;
+ 	}
+ 	.sandals{
+ 		bottom: 360px;
+ 	}
+ 	.price p+p{
+ 		font-size: 35px;
+ 	}
+ 	.gallery #slides { 
+  		width: 400px;
+  		height: 270px;
+  	}	
+  	.tothetop{
+  		right: -50px;
+  	}
+}
+
+@media all and (max-width: 320px){
+	.r-wave{
+		display: none;
+	}
+	.contact{
+		margin-left: 30px;
+	}
+	header h1{
+		font-size: 40px;
+		margin-top: 40px;
+	}
+	header h2{
+		font-size: 28px;
+	}
+	.travel p, .target p{
+		font-size: 20px;
+	}
+	.passport{
+		display: none;
+	}
+	.shell{
+		display: none;
+	}
+	.travel .plane, footer .plane{
+		display: none;
+	}	
+	.camera{
+		bottom: 430px;
+		left: 85px;
+		max-width: 45%;
+	}
+	.vs, h4{
+		display: none;
+	}
+	.tasks .items {
+  		margin: 20px 0 30px;
+	}
+	.surf{
+		bottom: 185px;
+	}
+	.dlyakogo p{
+		font-size: 22px;
+		margin: 25px 15px;
+	}
+	.dlyakogo ul{
+		margin: 0 calc(50vw - 140px) 70px;
+	}
+	.dlyakogo ul li{
+		width: 220px;
+		height: 70px;
+	}
+	.bag{
+		bottom: 495px;
+	}
+	.hat{
+		bottom: 555px;
+	}
+	.umbr{
+		top: 510px;
+	}
+	.sandals{
+		bottom: 520px;
+	}
+	.price{
+		padding: 25px 0 60px;
+	}
+	.price p{
+		margin: 15px 0 35px;
+	}
+	.price p+p{
+		font-size: 30px;
+	}
+	.price p+p+p{
+		margin: 40px 0 40px 10px;
+		font-size: 20px;
+		width: 90%;
+	}
+	.gallery #slides{
+		width: 250px;
+		height: 170px;
+	}
+	.bino{
+		display: none;
+	}
+	.tothetop{
+		right: -30px;
+	}
+}
+
+@media all and (max-width: 310px){
+	header, .dlyakogo, .gallery, .travel, .tasks, .price, footer, .target, .speakers {
+		display: none;
+	}
+	.kupi{
+		display: block;
+		position: relative;
+		margin: 0 auto;
+		font-size: 25px;
+		text-transform: uppercase;
+		font-weight: bold;
+		width: 100%;
+		height: 100vw;
+		padding-top: 30vw;
+		color: white;
+		background: black;
+	}
+}
